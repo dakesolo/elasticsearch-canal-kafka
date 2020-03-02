@@ -11,8 +11,8 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
-    <groupId>org.example</groupId>
-    <artifactId>canal-kafka-elasticsearch</artifactId>
+    <groupId>dakesolo.elasticsearch</groupId>
+    <artifactId>elasticsearch-canal-kafka</artifactId>
     <version>0.0.1</version>
 
 
